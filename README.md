@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter application.
+This is a mobile application using dart&flutter, this application fetches the latest news from different sites through “APIs” and displays it in the application through the latest, most flexible and fast methods and clean code
 
 ## Getting Started
 
