@@ -8,7 +8,16 @@
 # flutter_app
 
 A new Flutter application.
-This is a mobile application using dart&flutter, this application fetches the latest news from different sites through “APIs” and displays it in the application through the latest, most flexible and fast methods and clean code
+This is a mobile application using dart&flutter, this application fetches the latest news from different sites through “APIs” and displays it in the application through the latest, most flexible and fast methods and clean code.
+
+#in this App i'm use this features ..
+- Flutter Widgets 
+- Bloc 
+- Api 
+- Dio Package
+- SharedPreference
+- Theme 
+- DarkTheme 
 
 ## Getting Started
 
