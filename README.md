@@ -13,7 +13,8 @@ This is a mobile application using dart&flutter, this application fetches the la
 #in this App i'm use this features ..
 - Flutter Widgets 
 - Bloc 
-- Api 
+- Api & get
+- Api & search
 - Dio Package
 - SharedPreference
 - Theme 
