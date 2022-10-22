@@ -4,13 +4,21 @@ A new Flutter application.
 This is a mobile application using dart&flutter, this application fetches the latest news from different sites through “APIs” and displays it in the application through the latest, most flexible and fast methods and clean code.
 
 #in this App i'm use this features ..
+
 - Flutter Widgets 
-- Bloc 
+
+- Bloc / cubit 
+
 - Api & get
+
 - Api & search
+
 - Dio Package
+ 
 - SharedPreference
+ 
 - Theme 
+ 
 - DarkTheme 
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/75587814/160516513-84eec077-393f-417c-9d82-447a29a1d7eb.png)
